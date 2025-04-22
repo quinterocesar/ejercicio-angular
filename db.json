@@ -1,0 +1,109 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "César Quintero",
+      "email": "cesar.quintero@example.com",
+      "phone": "987654321",
+      "city": "Lima"
+    },
+    {
+      "id": 2,
+      "name": "Laura Rodríguez",
+      "email": "laura.rodriguez@example.com",
+      "phone": "912345678",
+      "city": "Arequipa"
+    },
+    {
+      "id": 3,
+      "name": "María López",
+      "email": "maria.lopez@example.com",
+      "phone": "956789012",
+      "city": "Cusco"
+    },
+    {
+      "id": 4,
+      "name": "Javier Morales",
+      "email": "javier.morales@example.com",
+      "phone": "998877665",
+      "city": "Trujillo"
+    },
+    {
+      "id": 5,
+      "name": "Ana Torres",
+      "email": "ana.torres@example.com",
+      "phone": "987112233",
+      "city": "Piura"
+    },
+    {
+      "id": 6,
+      "name": "Luis Fernández",
+      "email": "luis.fernandez@example.com",
+      "phone": "934567891",
+      "city": "Lima"
+    },
+    {
+      "id": 7,
+      "name": "Daniela Méndez",
+      "email": "daniela.mendez@example.com",
+      "phone": "945612378",
+      "city": "Iquitos"
+    },
+    {
+      "id": 8,
+      "name": "Carlos Romero",
+      "email": "carlos.romero@example.com",
+      "phone": "923456789",
+      "city": "Tacna"
+    },
+    {
+      "id": 9,
+      "name": "Valeria Soto",
+      "email": "valeria.soto@example.com",
+      "phone": "910203040",
+      "city": "Chiclayo"
+    },
+    {
+      "id": 10,
+      "name": "Gabriel Núñez",
+      "email": "gabriel.nunez@example.com",
+      "phone": "999888777",
+      "city": "Huancayo"
+    },
+    {
+      "id": 11,
+      "name": "Lucía Herrera",
+      "email": "lucia.herrera@example.com",
+      "phone": "978654321",
+      "city": "Lima"
+    },
+    {
+      "id": 12,
+      "name": "Ricardo Díaz",
+      "email": "ricardo.diaz@example.com",
+      "phone": "987112244",
+      "city": "Puno"
+    },
+    {
+      "id": 13,
+      "name": "Andrea Vargas",
+      "email": "andrea.vargas@example.com",
+      "phone": "935687421",
+      "city": "Ica"
+    },
+    {
+      "id": 14,
+      "name": "Fernando Ruiz",
+      "email": "fernando.ruiz@example.com",
+      "phone": "921234567",
+      "city": "Tumbes"
+    },
+    {
+      "id": 15,
+      "name": "Paula Jiménez",
+      "email": "paula.jimenez@example.com",
+      "phone": "956123789",
+      "city": "Lambayeque"
+    }
+  ]
+}
